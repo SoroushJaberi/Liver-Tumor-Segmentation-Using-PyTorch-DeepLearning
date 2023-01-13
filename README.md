@@ -1,4 +1,4 @@
-# Liver-Tumor-Segmentation-Using-PyTorch-DeepLearning-
+# Liver-Tumor-Segmentation-Using-PyTorch-DeepLearning
 First, we need to obtain and preprocess the data for the segmentation task The data is provided by the medical segmentation decathlon (http://medicaldecathlon.com/)
 As this dataset has over 26GB we provide a resampled version of it. The new scans are of shape (256x256xZ), where Z is varying and reduce the size of the dataset to 2.5GB.
 You can directly download the full body cts and segmentation maps from:
