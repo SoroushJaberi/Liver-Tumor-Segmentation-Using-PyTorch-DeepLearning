@@ -17,4 +17,6 @@ MaxPool2d -> MaxPool3d
 "trilinear" upsampling method
 Three Output Channels instead of One to model background, liver and tumor
 
+We use 105 subjects for training and 13 for testing
+
 # GPU: NVIDIA GeForce GTX 1050 Ti
